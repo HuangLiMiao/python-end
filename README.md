@@ -15,8 +15,9 @@
 ### - [项目代码地址](https://github.com/HuangLiMiao/python-end/tree/master/Election)
 ![项目页面截图](https://images.gitee.com/uploads/images/2020/0105/203432_fc1bc315_2229822.png)
 
-### - [项目的在线部署](https://github.com/HuangLiMiao)
+### - [项目的在线部署](http://huanglimiao.pythonanywhere.com/)
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0105/204033_6b066039_2229822.gif "2.gif")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0105/215053_87ee4afd_2229822.png "3.png")
 
 ### - [项目源数据整合](https://github.com/HuangLiMiao/python-end/tree/master/data)
 
@@ -24,9 +25,10 @@
 ## ✨三 技术文档书写
 
 ### 1.HTML档描述
-- 主要实现了三个html页面的跳转，主要的文档有项目简介、数据故事、总结及思考
+- 实现了四个html页面的跳转，主要的html有登陆页面、项目简介、数据故事、总结及思考
 
 ### 2.Python档描述
+
 - 
 ### 3.Web App动作描述
 - 

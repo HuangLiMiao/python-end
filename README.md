@@ -31,7 +31,6 @@
 - 实现了四个html页面的跳转，主要的html有[登陆页面](http://huanglimiao.pythonanywhere.com/election/)、[项目简介](http://huanglimiao.pythonanywhere.com/feedback?username=zuoye)、[数据故事](http://huanglimiao.pythonanywhere.com/election/zuoye/)、[总结及思考](http://huanglimiao.pythonanywhere.com/election/zuoye/selected)
 
 - 连接了精简风的css样式，每一个主要页面的css样式都不同
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0105/223021_bed557b4_2229822.png)
 
 - 加入了页眉的设计，让访客对我们的网站有更加深刻的印象
 
